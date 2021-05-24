@@ -1,5 +1,5 @@
-// import './styles.css';
-// import './main.scss';
+import './styles.css';
+import './main.scss';
 import inputSearchTpl from './templates/inputSearch.hbs';
 import imageTpl from './templates/imageTpl.hbs';
 import apiService from './js/apiService';
