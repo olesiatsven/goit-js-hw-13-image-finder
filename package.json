@@ -38,6 +38,7 @@
     "html-webpack-plugin": "^4.5.0",
     "img-loader": "^3.0.2",
     "mini-css-extract-plugin": "^0.11.2",
+    "node-sass": "^6.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "postcss-loader": "^4.0.2",
     "style-loader": "^1.2.1",
@@ -53,6 +54,7 @@
     "basiclightbox": "^5.0.4",
     "chokidar": "^3.5.1",
     "core-js": "^3.12.1",
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.6",
+    "sass-loader": "^10.2.0"
   }
 }
